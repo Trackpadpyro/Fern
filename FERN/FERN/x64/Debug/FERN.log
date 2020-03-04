@@ -1,0 +1,8 @@
+﻿  Ctd.cpp
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(27,14): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(30,16): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(58,33): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(60,46): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(62,46): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\track\source\repos\FERN\FERN\Ctd.cpp(64,45): warning C4305:  'argument': truncation from 'double' to 'float'
+  FERN.vcxproj -> C:\Users\track\source\repos\FERN\x64\Debug\FERN.exe
